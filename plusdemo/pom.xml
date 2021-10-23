@@ -7,6 +7,11 @@
     <version>0.0.1-SNAPSHOT</version>
     <name>plusdemo</name>
     <description>Demo project for Spring Boot</description>
+    <parent>
+        <artifactId>springplusdemo</artifactId>
+        <groupId>com.atguigu</groupId>
+        <version>0.0.1-SNAPSHOT</version>
+    </parent>
 
     <properties>
         <java.version>1.8</java.version>
